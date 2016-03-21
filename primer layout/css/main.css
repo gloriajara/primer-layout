@@ -1,0 +1,28 @@
+.contenedor {
+	display: table;
+	position: relative;
+	width: 100%;
+	border: 1px solid white;
+	margin: 0 auto;
+	text-align: center;
+}
+
+hr {
+	border: 1px solid black;
+}
+
+.parrafo {
+	width: 500px;
+	height: 300px;
+	font-family: "Times New Roman";
+	font-size: 28px;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+}
+
+.nc {
+text-align: left; 
+}

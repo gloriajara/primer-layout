@@ -1,0 +1,31 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	background-color: #623D87;
+	color: white;
+	text-align: center;
+	font-size: 80px;
+	font-family: "Arial";
+	line-height: 200px;
+}
+
+.caja-inline {
+	display: inline-block;
+}
+
+.container {
+	margin: 8px;
+	width: 600px;
+	background-color: #ff1a1a;
+	padding: 10px;
+}
+
+.caja-float {
+	float: right;
+}
+
+.container:before; .container:after {
+	display: block;
+	clear: both;
+	content: "";
+}

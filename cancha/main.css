@@ -1,0 +1,99 @@
+.cancha {
+	width: 900px;
+	height: 500px;
+	background-color: #77b300;
+	position: relative;
+	margin: 5px;
+	left: 20px;
+	top: 20px;
+}
+
+.square {
+	width: 850px;
+	height: 450px;
+	border: 2px solid white;
+	background-color: #77b300;
+	position: absolute;
+	margin: 20px;
+}
+
+.arco {
+	width: 100px;
+	height: 180px;
+	border: 2px solid white;
+	position: absolute;
+	left: -2px;
+	top: 130px;
+}
+
+.arco1 {
+	width: 100px;
+	height: 180px;
+	border: 2px solid white;
+	position: absolute;
+	right: -2px;
+	top: 130px;
+
+}
+
+.circle {
+	width: 180px;
+	height: 180px;
+	border: 2px solid white;
+	background-color: #77b300;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+	position: absolute;
+	left: 340px;
+	top: 130px;
+}
+
+.pelota {
+	width: 22px;
+	height: 22px;
+	background-color: white;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	position: absolute;
+	left: 90px;
+	top: 135px;
+}
+
+.pelota1 {
+	width: 22px;
+	height: 22px;
+	background-color: white;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	position: absolute;
+	left: 440px;
+	top: 80px;
+
+}
+
+.pelota2{
+	width: 22px;
+	height: 22px;
+	background-color: white;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	position: absolute;
+	right: 107px;
+	top: 270px;
+
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+.azul {
+	width: 300px;
+	height: 300px;
+	background-color: #005ce6;
+	margin: 0px;
+	padding: 0px;
+	position: relative;	
+
+}
+
+.verde {
+	width: 150px;
+	height: 150px;
+	background-color: #408000;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	left: 75px;
+	top: 75px;
+
+
+}
+
+.negro {
+	width: 75px;
+	height: 75px;
+	background-color: #000000;
+	margin: 0px;
+	padding: 0px
+	position: static;
+	left: 0px;
+	top: 0px;
+
+}

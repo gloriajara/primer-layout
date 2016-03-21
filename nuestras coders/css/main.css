@@ -1,0 +1,25 @@
+hr {
+	border: 2px solid black;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+.arriba {
+	display: table;
+	position: relative;
+	width: 100%;
+}
+
+.foto {
+	display: inline-block;
+	position: relative;
+	float: left;
+	margin: 10px;
+}
+
+.foto2 {
+	display: inline-block;
+	position: absolute;
+	left: 230px;
+	top: 0px;
+}
